@@ -557,4 +557,4 @@ This list is not necessarily complete.
 . . . . . . . . . . . . . . . .
 
     - ZSNES Team & ZSNES Documentation Team
-    - Ported by: Thegamesss.github.io
+    - Ported by: "https://thegamesss.github.io/"
