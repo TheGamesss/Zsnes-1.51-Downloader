@@ -4,41 +4,6 @@ ZSNES v1.51 Documentation
     N a v i g a t i o n
 ================================
 
-    * Index    [Index.txt]
-
-    * Readme    [Readme.txt]
-
-    * GUI    [GUI.txt]
-
-    * Netplay    [Netplay.txt]
-
-    * Advanced Usage    [Advanced.txt]
-
-    * Games    [Games.txt]
-        1. ROMs
-        2. Compatibility
-        3. Special-Chip Games
-        4. Special Cartridges
-            - BS-X (Satellaview)
-            - Super Gameboy
-        5. Individual Game Issues
-        6. Games Supported by ManyMouse
-        7. Multiplayer List
-
-    * FAQ    [FAQ.txt]
-
-    - - - - - - - - - - - - - - - - - -
-
-    * Getting Support    [Support.txt]
-
-    * History    [History.txt]
-
-    * About    [About.txt]
-
-    * License    [License.txt]
-
-    - - - - - - - - - - - - - - - - - -
-
     * NSRT Guide:    [http://zsnes-docs.sf.net/nsrt]
 
     * ZSNES Home Page:  [ZSNES.com]
@@ -137,9 +102,6 @@ become accurate enough to be able to run your particular game.
 ............................................................
   3.                 Special-Chip Games
 ............................................................
-
-The approximate percentage of emulation progress for these special chips is
-listed under Current Progress [Readme.txt].
 
 The NSRT SNES Add-on Chip information article was frequently referenced for the
 information assembled on this page. [http://nsrt.edgeemu.com/INFO/chipinfo.htm]
@@ -327,9 +289,6 @@ known to use each processor.
   4.                 Special Cartridges
 ............................................................
 
-The approximate percentage of emulation progress for these special cartridges is
-listed under Current Progress [Readme.txt].
-
  - - - - - - - - - - - - - - -
   Same Game; SD Gundam G-Next
  - - - - - - - - - - - - - - -
@@ -508,93 +467,93 @@ and derivatives support multiplayer, too.
 
 This list is not necessarily complete.
 
-   Aero Fighters
-   Art of Fighting
-   Battletoads in Battlemaniacs
-   Battletoads vs DoubleDragon
-   Brawl Brothers
-   Brutal: Paws of Fury
-   Captain Commando
-   Clay Fighter
-   Contra 3
-   Darius Twin
-   Double Dragon 5
-   Dragonball Z Super Butoden
-   Dragonball Z Hyper Dimension
-   Faceball
-   Fatal Fury
-   Fighter's History
-   Final Fight 2 & 3
-   Ghoul Patrol
-   Goemon
-   Goof Troop
-   Gundam Wing: Endless Duel
-   Joe & Mac
-   Jurassic Park 2 - The Chaos Continues
-   Killer Instinct
-   King of Dragons
-   King of the Monsters
-   Kirby's Avalanche
-   Kirby's Dreamland 3
-   Kirby Super Star
-   Legend of the Mystical Ninja
-   Lemmings
-   Megaman 7 (Secret Code - password 1415/5585/7823/6251 and press L+R+Start)
-   Metal Warriors
-   Mortal Kombat
-   Ms. Pac-Man
-   NP Mario Picross Series
-   Peace Keapers
-   Pirates of the Dark Water
-   Pocky & Rocky
-   Pop'n Twinbee
-   Power Instinct
-   Primal Rage
-   Puzzle Bobble
-   Raiden
-   Rampart
-   Ranma 1/2
-   Rise of the Robots
-   Rival Turf
-   Rock N' Roll Racing
-   Run Saber
-   Sailor Moon
-   Samurai Shodown
-   Secret of Mana
-   Seiken Densetsu 3
-   Shaq Fu
-   Star Fox 2
-   Star Trek Starfleet Academy
-   Street Fighter 2
-   Street Fighter 2 Turbo
-   Street Fighter Alpha 2
-   Street Racer
-   Stunt Race FX
-   Sunset Riders
-   Super Bomberman
-   Super Mario All-Stars (SMB3 minigame)
-   Super Mario Kart
-   Super Mario World 2: Yoshi's Island (At map, press X,X,Y,B,A)
-   Super Offroad
-   Super Smash TV
-   Super Street Fighter 2
-   Suzuka 8 Hours
-   Teenage Mutant Ninja Turtles 4 - Turtles in Time
-   Teenage Mutant Ninja Turtles 5 - Tournament Fighters
-   Tetris
-   The Great Circus Mystery
-   Top Gear 2
-   Top Gear 3000
-   Tuff E Nuff
-   Ultimate Mortal Kombat 3
-   Uniracers
-   Wild Guns
-   World Heroes
-   Wrecking Crew '98
-   Zombies Ate My Neighbors
+   * Aero Fighters
+   * Art of Fighting
+   * Battletoads in Battlemaniacs
+   * Battletoads vs DoubleDragon
+   * Brawl Brothers
+   * Brutal: Paws of Fury
+   * Captain Commando
+   * Clay Fighter
+   * Contra 3
+   * Darius Twin
+   * Double Dragon 5
+   * Dragonball Z Super Butoden
+   * Dragonball Z Hyper Dimension
+   * Faceball
+   * Fatal Fury
+   * Fighter's History
+   * Final Fight 2 & 3
+   * Ghoul Patrol
+   * Goemon
+   * Goof Troop
+   * Gundam Wing: Endless Duel
+   * Joe & Mac
+   * Jurassic Park 2 - The Chaos Continues
+   * Killer Instinct
+   * King of Dragons
+   * King of the Monsters
+   * Kirby's Avalanche
+   * Kirby's Dreamland 3
+   * Kirby Super Star
+   * Legend of the Mystical Ninja
+   * Lemmings
+   * Megaman 7 (Secret Code - password 1415/5585/7823/6251 and press L+R+Start)
+   * Metal Warriors
+   * Mortal Kombat
+   * Ms. Pac-Man
+   * NP Mario Picross Series
+   * Peace Keapers
+   * Pirates of the Dark Water
+   * Pocky & Rocky
+   * Pop'n Twinbee
+   * Power Instinct
+   * Primal Rage
+   * Puzzle Bobble
+   * Raiden
+   * Rampart
+   * Ranma 1/2
+   * Rise of the Robots
+   * Rival Turf
+   * Rock N' Roll Racing
+   * Run Saber
+   * Sailor Moon
+   * Samurai Shodown
+   * Secret of Mana
+   * Seiken Densetsu 3
+   * Shaq Fu
+   * Star Fox 2
+   * Star Trek Starfleet Academy
+   * Street Fighter 2
+   * Street Fighter 2 Turbo
+   * Street Fighter Alpha 2
+   * Street Racer
+   * Stunt Race FX
+   * Sunset Riders
+   * Super Bomberman
+   * Super Mario All-Stars (SMB3 minigame)
+   * Super Mario Kart
+   * Super Mario World 2: Yoshi's Island (At map, press X,X,Y,B,A)
+   * Super Offroad
+   * Super Smash TV
+   * Super Street Fighter 2
+   * Suzuka 8 Hours
+   * Teenage Mutant Ninja Turtles 4 - Turtles in Time
+   * Teenage Mutant Ninja Turtles 5 - Tournament Fighters
+   * Tetris
+   * The Great Circus Mystery
+   * Top Gear 2
+   * Top Gear 3000
+   * Tuff E Nuff
+   * Ultimate Mortal Kombat 3
+   * Uniracers
+   * Wild Guns
+   * World Heroes
+   * Wrecking Crew '98
+   * Zombies Ate My Neighbors
 
 
 . . . . . . . . . . . . . . . .
-This documentation is best viewed in a fixed-width font such as "Courier New".
 
     - ZSNES Team & ZSNES Documentation Team
+    - Ported by: Thegamesss.github.io
