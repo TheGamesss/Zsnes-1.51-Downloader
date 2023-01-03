@@ -208,8 +208,8 @@ known to use each processor.
  - - - -
   SA-1
  - - - -
-  “The SA-1 is a 65816 chip, although at a higher clock then the SNES's
-  internal one.” [Quoted from http://nsrt.edgeemu.com/INFO/chipinfo.htm]
+  Â“The SA-1 is a 65816 chip, although at a higher clock then the SNES's
+  internal one.Â” [Quoted from http://nsrt.edgeemu.com/INFO/chipinfo.htm]
 
      * Asahi Shinbun Rensai - Katou Ichi-Ni-San Kudan Shougi Shingiru
      * Daisenryaku Expert WWII
@@ -597,4 +597,4 @@ This list is not necessarily complete.
 . . . . . . . . . . . . . . . .
 This documentation is best viewed in a fixed-width font such as "Courier New".
 
-Copyright (C) ZSNES Team & ZSNES Documentation Team [License.txt]
+    - ZSNES Team & ZSNES Documentation Team
